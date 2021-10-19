@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TUKeS\\source\\repos\\MP\\MPtest\\MPtest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TUKeS\\source\\repos\\MP\\MPtest\\MPtest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TUKeS\\source\\repos\\MP\\MPtest\\MPtest.csproj",
+        "projectName": "MPtest",
+        "projectPath": "C:\\Users\\TUKeS\\source\\repos\\MP\\MPtest\\MPtest.csproj",
+        "packagesPath": "C:\\Users\\TUKeS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TUKeS\\source\\repos\\MP\\MPtest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TUKeS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\MP.csproj": {
+                "projectPath": "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\MP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Engine": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Extension.NUnitProjectLoader": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "NUnit.Extension.NUnitV2Driver": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit.Extension.NUnitV2ResultWriter": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "NUnit.Extension.TeamCityEventListener": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "NUnit.Extension.VSProjectLoader": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit.Runners": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3.DotNetNew.Template": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\MP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\MP.csproj",
+        "projectName": "MP",
+        "projectPath": "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\MP.csproj",
+        "packagesPath": "C:\\Users\\TUKeS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TUKeS\\source\\repos\\MP\\MP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TUKeS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

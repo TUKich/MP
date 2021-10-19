@@ -1,0 +1,11 @@
+C:\Users\TUKeS\source\repos\MP\MP\obj\Debug\netcoreapp3.1\MP.csprojAssemblyReference.cache
+C:\Users\TUKeS\source\repos\MP\MP\obj\Debug\netcoreapp3.1\MP.AssemblyInfoInputs.cache
+C:\Users\TUKeS\source\repos\MP\MP\obj\Debug\netcoreapp3.1\MP.AssemblyInfo.cs
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.exe
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.deps.json
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.runtimeconfig.json
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.runtimeconfig.dev.json
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.dll
+C:\Users\TUKeS\source\repos\MP\MP\bin\Debug\netcoreapp3.1\MP.pdb
+C:\Users\TUKeS\source\repos\MP\MP\obj\Debug\netcoreapp3.1\MP.dll
+C:\Users\TUKeS\source\repos\MP\MP\obj\Debug\netcoreapp3.1\MP.pdb
