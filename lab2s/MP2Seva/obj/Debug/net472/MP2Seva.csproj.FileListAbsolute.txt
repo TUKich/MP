@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\bin\Debug\net472\MP2Seva.exe.config
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\bin\Debug\net472\MP2Seva.exe
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\bin\Debug\net472\MP2Seva.pdb
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\obj\Debug\net472\MP2Seva.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\obj\Debug\net472\MP2Seva.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\obj\Debug\net472\MP2Seva.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\obj\Debug\net472\MP2Seva.exe
+C:\Users\TUKeS\RiderProjects\MP2Seva\MP2Seva\obj\Debug\net472\MP2Seva.pdb

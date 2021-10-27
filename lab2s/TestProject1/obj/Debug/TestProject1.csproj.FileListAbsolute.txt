@@ -1,0 +1,11 @@
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\MP2Seva.exe
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\MP2Seva.pdb
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\MP2Seva.exe.config
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\TUKeS\RiderProjects\MP2Seva\TestProject1\obj\Debug\TestProject1.pdb
