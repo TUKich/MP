@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\bin\Debug\net472\lab1Jija.exe.config
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\bin\Debug\net472\lab1Jija.exe
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\bin\Debug\net472\lab1Jija.pdb
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\obj\Debug\net472\lab1Jija.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\obj\Debug\net472\lab1Jija.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\obj\Debug\net472\lab1Jija.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\obj\Debug\net472\lab1Jija.exe
+C:\Users\TUKeS\RiderProjects\ConsoleApp3\lab1Jija\obj\Debug\net472\lab1Jija.pdb
