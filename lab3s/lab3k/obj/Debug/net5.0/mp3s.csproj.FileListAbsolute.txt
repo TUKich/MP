@@ -1,0 +1,5 @@
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net5.0\mp3s.csproj.AssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net5.0\mp3s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net5.0\mp3s.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net5.0\mp3s.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net5.0\mp3s.csproj.CoreCompileInputs.cache

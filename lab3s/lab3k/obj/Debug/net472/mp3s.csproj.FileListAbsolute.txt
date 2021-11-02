@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\bin\Debug\net472\mp3s.exe.config
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\bin\Debug\net472\mp3s.exe
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\bin\Debug\net472\mp3s.pdb
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net472\mp3s.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net472\mp3s.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net472\mp3s.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net472\mp3s.exe
+C:\Users\TUKeS\RiderProjects\mp3s\mp3s\obj\Debug\net472\mp3s.pdb

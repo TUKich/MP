@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\bin\Debug\net472\lab3k.exe.config
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\bin\Debug\net472\lab3k.exe
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\bin\Debug\net472\lab3k.pdb
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\obj\Debug\net472\lab3k.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\obj\Debug\net472\lab3k.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\obj\Debug\net472\lab3k.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\obj\Debug\net472\lab3k.exe
+C:\Users\TUKeS\RiderProjects\mp3s\lab3k\obj\Debug\net472\lab3k.pdb
