@@ -1,0 +1,11 @@
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\mp3s.exe
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\mp3s.pdb
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\mp3s.exe.config
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\TUKeS\RiderProjects\mp3s\TestProject1\obj\Debug\TestProject1.pdb
