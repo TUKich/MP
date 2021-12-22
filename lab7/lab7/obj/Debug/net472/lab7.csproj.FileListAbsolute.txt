@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\lab7\lab7\bin\Debug\net472\lab7.exe.config
+C:\Users\TUKeS\RiderProjects\lab7\lab7\bin\Debug\net472\lab7.exe
+C:\Users\TUKeS\RiderProjects\lab7\lab7\bin\Debug\net472\lab7.pdb
+C:\Users\TUKeS\RiderProjects\lab7\lab7\obj\Debug\net472\lab7.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\lab7\lab7\obj\Debug\net472\lab7.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\lab7\lab7\obj\Debug\net472\lab7.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\lab7\lab7\obj\Debug\net472\lab7.exe
+C:\Users\TUKeS\RiderProjects\lab7\lab7\obj\Debug\net472\lab7.pdb
