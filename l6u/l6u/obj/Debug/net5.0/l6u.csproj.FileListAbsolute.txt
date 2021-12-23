@@ -1,0 +1,16 @@
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.exe
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.deps.json
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.runtimeconfig.json
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.runtimeconfig.dev.json
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.dll
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\ref\l6u.dll
+C:\Users\TUKeS\RiderProjects\l6u\l6u\bin\Debug\net5.0\l6u.pdb
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.csproj.AssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.csproj.CoreCompileInputs.cache
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.dll
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\ref\l6u.dll
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.pdb
+C:\Users\TUKeS\RiderProjects\l6u\l6u\obj\Debug\net5.0\l6u.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\lu3\lu3\obj\Debug\net472\lu3.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\lu3\lu3\obj\Debug\net472\lu3.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\lu3\lu3\obj\Debug\net472\lu3.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\lu3\lu3\bin\Debug\net472\lu3.exe.config
+C:\Users\TUKeS\RiderProjects\lu3\lu3\bin\Debug\net472\lu3.exe
+C:\Users\TUKeS\RiderProjects\lu3\lu3\bin\Debug\net472\lu3.pdb
+C:\Users\TUKeS\RiderProjects\lu3\lu3\obj\Debug\net472\lu3.exe
+C:\Users\TUKeS\RiderProjects\lu3\lu3\obj\Debug\net472\lu3.pdb

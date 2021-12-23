@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yd9xOPzDJ/f8v2jHx6QDzQ7+8FAV91bTEk4Vb1SV6bth83ioPKqDkELPE+gYSZ1RmV5HTwErTAXxGhxp452xeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TUKeS\\RiderProjects\\l6u\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TUKeS\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\TUKeS\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
+    "C:\\Users\\TUKeS\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
+    "C:\\Users\\TUKeS\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\TUKeS\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
