@@ -1,0 +1,8 @@
+C:\Users\TUKeS\RiderProjects\l5E\l5E\bin\Debug\net472\l5E.exe.config
+C:\Users\TUKeS\RiderProjects\l5E\l5E\bin\Debug\net472\l5E.exe
+C:\Users\TUKeS\RiderProjects\l5E\l5E\bin\Debug\net472\l5E.pdb
+C:\Users\TUKeS\RiderProjects\l5E\l5E\obj\Debug\net472\l5E.csprojAssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\l5E\l5E\obj\Debug\net472\l5E.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\l5E\l5E\obj\Debug\net472\l5E.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\l5E\l5E\obj\Debug\net472\l5E.exe
+C:\Users\TUKeS\RiderProjects\l5E\l5E\obj\Debug\net472\l5E.pdb
