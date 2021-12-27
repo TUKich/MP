@@ -1,0 +1,16 @@
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.csproj.AssemblyReference.cache
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.AssemblyInfoInputs.cache
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.AssemblyInfo.cs
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.csproj.CoreCompileInputs.cache
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.exe
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.deps.json
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.runtimeconfig.json
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.runtimeconfig.dev.json
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.dll
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\ref\l8.9.10U.dll
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\bin\Debug\net5.0\l8.9.10U.pdb
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.dll
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\ref\l8.9.10U.dll
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.pdb
+C:\Users\TUKeS\RiderProjects\l8.9.10U\l8.9.10U\obj\Debug\net5.0\l8.9.10U.genruntimeconfig.cache
