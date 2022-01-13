@@ -5,7 +5,7 @@ namespace l7E
 {
     public class Program
     {
-        public String ThreeTen(String c)
+        public String ThreeTen(String c)//Метод для перевода с 3сс в 10сс
         {
             try
             {
@@ -24,7 +24,7 @@ namespace l7E
                 double temp = 0;
                 double temp3 = 0;
                 double temp2 = 0;
-                for (double i = 0; i < c.Length; i++)
+                for (double i = 0; i < c.Length; i++)//перевод в 10сс
                 {
                     temp3 = u316 % 10;
                     u316 = u316 / 10;
