@@ -13,7 +13,7 @@ namespace l4E
                 {
                 }
         
-                static string Stroka(byte[] arrInput)
+                static string Stroka(byte[] arrInput) //Делает из массива баутов в строку
                 {
                     int i;
                     StringBuilder sOutput = new StringBuilder(arrInput.Length);
@@ -24,18 +24,18 @@ namespace l4E
         
                     return sOutput.ToString();
                 }
-                public bool POISK(string key)
+                public bool POISK(string key)// Проверяет существует ли ключ в этой таблице или нет
                 {
                     bool d = ht.ContainsKey(key);
                     return d;
                 }
-                public string funk(string Ss)
+                public string funk(string Ss)// Хэщ-функция
                 {
-                    byte[] tmpSource = ASCIIEncoding.ASCII.GetBytes(Ss);
-                    byte[] hash = new MD5CryptoServiceProvider().ComputeHash(tmpSource);
+                    byte[] tmpSource = ASCIIEncoding.ASCII.GetBytes(Ss);// Превращает из строки в массив байтов
+                    byte[] hash = new MD5CryptoServiceProvider().ComputeHash(tmpSource); //Кодирует ака проходит массив байтов через хэщ-функци
                     return Stroka(hash);
                 }
-                public void Dobav(string key, string value)
+                public void Dobav(string key, string value)// добавляет ключ+значение в хэш-таблицу
                 {
                     ht.Add(key, funk(value));
                 }
