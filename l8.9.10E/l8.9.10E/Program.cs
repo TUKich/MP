@@ -7,7 +7,7 @@ namespace l8._9._10E
 
     namespace SimpleAlgorithmsApp
     {
-        public class CircularDoublyLinkedList<T> : IEnumerable<T>
+        public class CircularDoublyLinkedList<T> : IEnumerable<T> 
         {
             DoublyNode<T> head;
             int count;
